@@ -1,0 +1,22 @@
+* {
+    font-family: Arial, Verdana, "Times New Roman" }
+
+
+h1 {
+    font-weight: 900;
+    background-color:
+}
+
+p {
+    font-size: 18;
+}
+
+
+img {
+    height: 125px;
+    width: auto;
+}
+
+body {
+    background-color: rgb(241, 241, 241);
+}
